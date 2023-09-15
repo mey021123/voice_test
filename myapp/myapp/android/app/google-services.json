@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767753944136",
+    "project_id": "twiliotest-89be6",
+    "storage_bucket": "twiliotest-89be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767753944136:android:0dbe1f972221562d046c7d",
+        "android_client_info": {
+          "package_name": "com.twilio_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKB3T8IJFYpIqUbsm_d1h3U3xdeNPwug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767753944136:android:c773a9307a72021d046c7d",
+        "android_client_info": {
+          "package_name": "com.twilio_tst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKB3T8IJFYpIqUbsm_d1h3U3xdeNPwug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
